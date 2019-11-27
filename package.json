@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Teste de conexão com o servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tIAgOfErrE/Teste.git"
+  },
+  "author": "Tiago Ferreira <tiagoferreira.mrc@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tIAgOfErrE/Teste/issues"
+  },
+  "homepage": "https://github.com/tIAgOfErrE/Teste#readme"
+}
